@@ -1,0 +1,147 @@
+.email-main-container{
+    font-size: 16px;
+    text-align: center;
+}
+
+.email-main-container-wrapper{
+    display: inline-block;
+    max-width: 600px;
+
+}
+
+.email-main-container-main-head{
+    vertical-align: bottom;
+    display: block;
+    height: 266px ;
+    background-image: url("header.jpg");
+}
+
+.email-main-container-main-head-text{
+    display: inline-block;
+    max-width: 430px;
+    letter-spacing: 2px;
+    color:#ffff;
+    font-weight:bold;
+    text-transform: uppercase;
+    line-height: 22px;
+    margin-top: 205px;
+    font-size: 18px;
+}
+
+.email-main-container-about-us{
+
+}
+
+.email-main-container-about-us-header{
+    font-size: 20px;
+    text-transform: uppercase;
+    border-bottom: 2px solid #000;
+    padding-bottom: 10px;
+}
+
+.email-main-container-items{
+    background-color: #1A1915;
+    margin-top: 40px;
+    padding: 15px;
+    padding-bottom: 40px
+}
+.email-main-container-items-header{
+    display: block;
+    color:#ffffff;
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    border-bottom: 2px solid #E9C970;
+    padding-bottom: 10px;
+}
+
+.email-main-container-item{
+    width: 170px;
+    margin-right: 5px;
+    margin-top: 20px;
+    display: inline-block;
+    position: relative;
+    border-top: 10px solid #E9C970;
+    border-radius: 10px;
+    vertical-align: top;
+    color: #ffff;
+}
+
+.email-main-container-item__center{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.email-main-container-item-img img{
+    display: inline-block;
+    width: 100%;
+}
+
+.email-main-container-item-descr-header{
+    text-align: left;
+    display: inline-block;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    border-bottom: 2px solid #E9C970;
+    font-weight: normal;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.email-main-container-item-descr-text{
+    display: inline-block;
+    text-align: left;
+    font-size: 14px;
+}
+
+.email-main-container-item-descr-button{
+    margin-top: 10px;
+    display: block;
+    background-color:#E9C970;
+    color: #000000;
+    border: 2px solid #ffffff;
+    text-decoration: none;
+    padding: 4px;
+    font-weight: bold;
+}
+
+.email-main-container-advantages{
+    background-color: #EFEFEF;
+    padding-bottom: ;
+}
+
+.email-main-container-advantages-item{
+    display: inline-block;
+    width: 280px;
+    height: 50px;
+    border: 1px solid #000;
+    margin-top: 30px;
+}
+
+.email-main-container-advantages-header{
+    padding-top: 20px;
+    font-size: 20px;
+    text-transform: uppercase;
+    border-bottom: 2px solid #000;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.email-main-container-footer{
+    /* height: 50px; */
+    background-color: #1A1915;
+}
+
+.email-main-container-footer-text{
+    color:#ffffff
+}
+
+.email-main-container-footer-text li{
+    margin-top: 6px;
+}
+
+.email-main-container-footer-text ul{
+    margin: 0;
+}
